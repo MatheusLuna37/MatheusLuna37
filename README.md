@@ -1,5 +1,5 @@
 ## Olá, me chamo Matheus 👋
-Seja bem-vindo(a) ao meu perfil,
+Seja bem-vindo(a) ao meu perfil,   
 Sou um estudante de Ciências da Computação na Universidade Federal do Cariri, tenho 19 anos, apaixonado por tecnologia, matemática e principalmente por aprender.  
 Tive experiências com olimpíadas de matemática como OBMEP e OBM durante a escola, e ao final do meu ensino médio decidi que queria expandir meus conhecimentos adentrando a área de tecnologia, na qual agora estou!  
 Buscando aprender um pouco de tudo, mas atualmente mais interessando em áreas Back-End.  
