@@ -11,6 +11,7 @@ Ah, gosto de basquete também, caso isso seja do interesse de alguém. 🏀
 ## Conecte-se comigo:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/matheus-bezerra-luna-286100182)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.bezerra@aluno.ufca.edu.br)
+[![Lattes](https://custom-icon-badges.demolab.com/badge/Lattes-0E4581?style=for-the-badge&logo=lattes&logoColor=white)](http://lattes.cnpq.br/1022367067380933)
 
 ## Estatísticas
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuna37&layout=compact&langs_count=7&bg_color=10498C&border_color=E0D3B0&text_color=fff&title_color=fff"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusLuna37&show_icons=true&bg_color=10498C&border_color=E0D3B0&text_color=fff&title_color=fff&icon_color=E0D3B0&count_private=true&include_all_commit=true"/>
